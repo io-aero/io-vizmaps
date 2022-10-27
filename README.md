@@ -20,6 +20,3 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 `io_vizmaps` was created by Loyd Hook. It is licensed under the terms of the GNU General Public License v3.0 license.
 
-## Credits
-
-`io_vizmaps` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
